@@ -1,5 +1,7 @@
-# BuccaneerWindows
+# WindowsImages
 
-Windows should remove the exe file and related applications for hidden code components,
-and to create be provided with have ​​real code build the application files at format is com.
-The source code files are pjt or pjf and pjc
+Windows Vista
+
+Windows Vista x64
+Windows Vista x64 Edition
+en_windows_vista_sp2_x64_dvd_342267.iso
